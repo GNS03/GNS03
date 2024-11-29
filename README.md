@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ## Hi there 👋
 
 ## My name is Gabriel
@@ -12,13 +14,11 @@
 
 ## The tools I most use are
 [![My Skills](https://skillicons.dev/icons?i=github,pycharm,idea,postman)](https://skillicons.dev)
-
+![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ## 📫 How to reach me:
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gabrielnogueirasouza@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-nogueira-souza-3081aa1b9/)
-
-
 
 
 <!--
