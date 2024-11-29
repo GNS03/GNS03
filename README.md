@@ -1,10 +1,4 @@
-![Header](./github-header-image.png)
-
-## Hi there 👋
-
-## My name is Gabriel
-
-### I'm currently learning about Data Analysis and Machine Learning
+![Header](./github-header-image_text.png)
 
 ## I mostly use python
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,flask,fastapi,selenium)](https://skillicons.dev)
